@@ -18,8 +18,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: Sudharshna Lakshmi S
-RegisterNumber: 212221230110
+Developed by: M Harikrishna.
+RegisterNumber: 212221230059.
 */
 ```
 ```
@@ -65,12 +65,16 @@ accuracy
 ## Output:
 ![image](https://user-images.githubusercontent.com/94882905/203790369-1e504865-18c5-47be-985e-f4051ea52db9.png)
 
-
 ![image](https://user-images.githubusercontent.com/94882905/203790388-6259e90f-26bc-492b-98f9-fd50c49a8782.png)
+
 ![image](https://user-images.githubusercontent.com/94882905/203790421-0195db10-6787-4992-8491-655d21efcc82.png)
+
 ![image](https://user-images.githubusercontent.com/94882905/203790459-5b140942-c7b6-4751-b2c1-2a5d30e09e2d.png)
+
 ![image](https://user-images.githubusercontent.com/94882905/203790517-2e29d94a-c22f-4567-950d-2b34a93e67d0.png)
+
 ![image](https://user-images.githubusercontent.com/94882905/203790542-1b9ae100-20da-4498-bd74-0de536df8c98.png)
+
 ![image](https://user-images.githubusercontent.com/94882905/203790576-ce61c3ff-9ae7-4eb5-ba09-be5b318d1991.png)
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
